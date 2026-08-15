@@ -25,13 +25,14 @@ streamlit run app.py
 
 ### Home
 Overview of the project, the data sources used and the NER model powering the application.
-<img width="895" height="474" alt="image" src="https://github.com/user-attachments/assets/a9d78d1f-2de1-4acf-aa52-34da4440739b" />
+<img width="939" height="434" alt="image" src="https://github.com/user-attachments/assets/ab5b7447-6159-4159-8692-b5e354959f14" />
 <img width="939" height="430" alt="image" src="https://github.com/user-attachments/assets/ffefee20-4714-4169-afeb-418232dee65a" />
 <img width="939" height="305" alt="image" src="https://github.com/user-attachments/assets/c6323834-1aee-4786-ae3e-b6d67f9143f5" />
 
 
 ### Trend Evolution
 Explore how the frequency and normalized weighted sentiment of extracted fashion attributes has changed over the six-month period covered by the dataset (August 2025 – January 2026). Visualised as interactive time series line charts.
+
 <img width="661" height="750" alt="image" src="https://github.com/user-attachments/assets/d09dfb44-39cb-48e1-adee-e692b0edf66b" />
 
 ### Trend Forecast
@@ -40,7 +41,9 @@ View short-term forecasts based on frequency and normalized weighted sentiment f
 
 ### Trend Explorer
 Browse and search through all fashion entities extracted from the corpus. Filter by entity label to explore what attributes were identified across the dataset.
-<img width="505" height="726" alt="image" src="https://github.com/user-attachments/assets/50bc66a6-e5b1-4057-a119-09598e8edfd4" />
+
+<img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/52726a09-9e9b-4ac7-b9cd-d196c6d124ce" />
+<img width="810" height="395" alt="image" src="https://github.com/user-attachments/assets/be92a723-c75e-486b-b6d1-32f02cde213c" />
 <img width="770" height="586" alt="image" src="https://github.com/user-attachments/assets/90cfc451-da05-4379-bc63-aff768281bbc" />
 <img width="766" height="417" alt="image" src="https://github.com/user-attachments/assets/7787f65e-98db-46bc-a617-a6ea52c36e64" />
 <img width="768" height="530" alt="image" src="https://github.com/user-attachments/assets/a5948295-972f-433c-be08-e468725088f6" />
